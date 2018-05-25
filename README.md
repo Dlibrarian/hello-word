@@ -1,4 +1,4 @@
 # hello-word
-*Test
+Test
 Hello All!
 New to GitHub.
